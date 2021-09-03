@@ -1,0 +1,9 @@
+C:\Users\Magas\source\repos\CalculatorTheAreaOfShapes\MathTaskClassLibraryTriangle\bin\Debug\netcoreapp3.1\MathTaskClassLibraryTriangle.deps.json
+C:\Users\Magas\source\repos\CalculatorTheAreaOfShapes\MathTaskClassLibraryTriangle\bin\Debug\netcoreapp3.1\MathTaskClassLibraryTriangle.dll
+C:\Users\Magas\source\repos\CalculatorTheAreaOfShapes\MathTaskClassLibraryTriangle\bin\Debug\netcoreapp3.1\MathTaskClassLibraryTriangle.pdb
+C:\Users\Magas\source\repos\CalculatorTheAreaOfShapes\MathTaskClassLibraryTriangle\obj\Debug\netcoreapp3.1\MathTaskClassLibraryTriangle.csproj.AssemblyReference.cache
+C:\Users\Magas\source\repos\CalculatorTheAreaOfShapes\MathTaskClassLibraryTriangle\obj\Debug\netcoreapp3.1\MathTaskClassLibraryTriangle.AssemblyInfoInputs.cache
+C:\Users\Magas\source\repos\CalculatorTheAreaOfShapes\MathTaskClassLibraryTriangle\obj\Debug\netcoreapp3.1\MathTaskClassLibraryTriangle.AssemblyInfo.cs
+C:\Users\Magas\source\repos\CalculatorTheAreaOfShapes\MathTaskClassLibraryTriangle\obj\Debug\netcoreapp3.1\MathTaskClassLibraryTriangle.csproj.CoreCompileInputs.cache
+C:\Users\Magas\source\repos\CalculatorTheAreaOfShapes\MathTaskClassLibraryTriangle\obj\Debug\netcoreapp3.1\MathTaskClassLibraryTriangle.dll
+C:\Users\Magas\source\repos\CalculatorTheAreaOfShapes\MathTaskClassLibraryTriangle\obj\Debug\netcoreapp3.1\MathTaskClassLibraryTriangle.pdb

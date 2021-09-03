@@ -1,0 +1,13 @@
+C:\Users\Magas\source\repos\CalculatorTheAreaOfShapes\CalculatorTheAreaOfShapes\bin\Debug\netcoreapp3.1\CalculatorTheAreaOfShapes.exe
+C:\Users\Magas\source\repos\CalculatorTheAreaOfShapes\CalculatorTheAreaOfShapes\bin\Debug\netcoreapp3.1\CalculatorTheAreaOfShapes.deps.json
+C:\Users\Magas\source\repos\CalculatorTheAreaOfShapes\CalculatorTheAreaOfShapes\bin\Debug\netcoreapp3.1\CalculatorTheAreaOfShapes.runtimeconfig.json
+C:\Users\Magas\source\repos\CalculatorTheAreaOfShapes\CalculatorTheAreaOfShapes\bin\Debug\netcoreapp3.1\CalculatorTheAreaOfShapes.runtimeconfig.dev.json
+C:\Users\Magas\source\repos\CalculatorTheAreaOfShapes\CalculatorTheAreaOfShapes\bin\Debug\netcoreapp3.1\CalculatorTheAreaOfShapes.dll
+C:\Users\Magas\source\repos\CalculatorTheAreaOfShapes\CalculatorTheAreaOfShapes\bin\Debug\netcoreapp3.1\CalculatorTheAreaOfShapes.pdb
+C:\Users\Magas\source\repos\CalculatorTheAreaOfShapes\CalculatorTheAreaOfShapes\obj\Debug\netcoreapp3.1\CalculatorTheAreaOfShapes.csproj.AssemblyReference.cache
+C:\Users\Magas\source\repos\CalculatorTheAreaOfShapes\CalculatorTheAreaOfShapes\obj\Debug\netcoreapp3.1\CalculatorTheAreaOfShapes.AssemblyInfoInputs.cache
+C:\Users\Magas\source\repos\CalculatorTheAreaOfShapes\CalculatorTheAreaOfShapes\obj\Debug\netcoreapp3.1\CalculatorTheAreaOfShapes.AssemblyInfo.cs
+C:\Users\Magas\source\repos\CalculatorTheAreaOfShapes\CalculatorTheAreaOfShapes\obj\Debug\netcoreapp3.1\CalculatorTheAreaOfShapes.csproj.CoreCompileInputs.cache
+C:\Users\Magas\source\repos\CalculatorTheAreaOfShapes\CalculatorTheAreaOfShapes\obj\Debug\netcoreapp3.1\CalculatorTheAreaOfShapes.dll
+C:\Users\Magas\source\repos\CalculatorTheAreaOfShapes\CalculatorTheAreaOfShapes\obj\Debug\netcoreapp3.1\CalculatorTheAreaOfShapes.pdb
+C:\Users\Magas\source\repos\CalculatorTheAreaOfShapes\CalculatorTheAreaOfShapes\obj\Debug\netcoreapp3.1\CalculatorTheAreaOfShapes.genruntimeconfig.cache

@@ -1,0 +1,8 @@
+C:\Users\Magas\source\repos\CalculatorTheAreaOfShapes\MathTaskClassLibraryCircle\bin\Debug\netcoreapp3.1\MathTaskClassLibraryCircle.deps.json
+C:\Users\Magas\source\repos\CalculatorTheAreaOfShapes\MathTaskClassLibraryCircle\bin\Debug\netcoreapp3.1\MathTaskClassLibraryCircle.dll
+C:\Users\Magas\source\repos\CalculatorTheAreaOfShapes\MathTaskClassLibraryCircle\bin\Debug\netcoreapp3.1\MathTaskClassLibraryCircle.pdb
+C:\Users\Magas\source\repos\CalculatorTheAreaOfShapes\MathTaskClassLibraryCircle\obj\Debug\netcoreapp3.1\MathTaskClassLibraryCircle.AssemblyInfoInputs.cache
+C:\Users\Magas\source\repos\CalculatorTheAreaOfShapes\MathTaskClassLibraryCircle\obj\Debug\netcoreapp3.1\MathTaskClassLibraryCircle.AssemblyInfo.cs
+C:\Users\Magas\source\repos\CalculatorTheAreaOfShapes\MathTaskClassLibraryCircle\obj\Debug\netcoreapp3.1\MathTaskClassLibraryCircle.csproj.CoreCompileInputs.cache
+C:\Users\Magas\source\repos\CalculatorTheAreaOfShapes\MathTaskClassLibraryCircle\obj\Debug\netcoreapp3.1\MathTaskClassLibraryCircle.dll
+C:\Users\Magas\source\repos\CalculatorTheAreaOfShapes\MathTaskClassLibraryCircle\obj\Debug\netcoreapp3.1\MathTaskClassLibraryCircle.pdb
